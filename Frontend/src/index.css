@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-curly: "Hurricane", cursive;
+    --font-basicall: "Mona Sans", sans-serif;
+  }
